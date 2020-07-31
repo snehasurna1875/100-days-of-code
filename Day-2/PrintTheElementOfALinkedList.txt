@@ -1,0 +1,10 @@
+void printLinkedList(SinglyLinkedListNode* head) {
+SinglyLinkedListNode *temp1= head;
+while(temp1->next!=NULL){
+     cout<<temp1->data<<endl;
+    temp1=temp1->next;
+     
+
+}
+cout<<temp1->data<<endl;
+}
