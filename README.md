@@ -28,3 +28,9 @@ Day 4 :2nd August 2020
 Solved two problems, inserting node at head and at tail of LinkedList(Hackerrank).
 Learn about the Content Management System of website and how to detect it by tool called CMSeek.
 
+-----------------------
+Day 5 :3rd August 2020
+-----------------------
+Solved two problems, inserting node at nth position and deleting a node in Linked List.(Hackerrank).
+
+
