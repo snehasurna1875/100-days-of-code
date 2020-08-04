@@ -33,4 +33,9 @@ Day 5 :3rd August 2020
 -----------------------
 Solved two problems, inserting node at nth position and deleting a node in Linked List.(Hackerrank).
 
+------------------------
+Day 6 : 4th August 2020
+------------------------
+Solved the Try Hack Me Machine Anthem
+
 
