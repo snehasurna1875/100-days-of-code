@@ -38,4 +38,11 @@ Day 6 : 4th August 2020
 ------------------------
 Solved the Try Hack Me Machine Anthem
 
+------------------------
+Day 7 : 5th August 2020
+------------------------
+Compeleted Bandit OverThe Wire by getting password for level 26 to 34
+I learned about interactive and git commands
+
+
 
