@@ -44,5 +44,12 @@ Day 7 : 5th August 2020
 Completed Bandit OverThe Wire by getting password for level 26 to 34
 I learned about interactive shell and git commands
 
+------------------------
+Day 8 : 6th August 2020
+------------------------
+Completed two question of Hackerrank , one print linkedlist reversely and second comparing two linkedList
+Solved one room of Tryhackme IntroductoryResearch and see it on (https://tryhackme.com/p/siais18)
+
+
 
 

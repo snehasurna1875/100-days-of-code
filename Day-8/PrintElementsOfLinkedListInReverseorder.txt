@@ -1,0 +1,20 @@
+void reversePrint(SinglyLinkedListNode* head) {
+    SinglyLinkedListNode* temp1;
+    temp1=head;
+
+    
+    vector<int> b;
+   
+    while(temp1->next!=NULL){
+     b.push_back(temp1->data);
+     temp1=temp1->next;
+   
+     }
+    b.push_back(temp1->data);
+    for(int i=(b.size()-1);i>=0;i--){
+    cout<<b[i]<<endl;
+      }
+
+
+
+}

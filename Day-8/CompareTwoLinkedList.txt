@@ -1,0 +1,38 @@
+bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
+    SinglyLinkedListNode* temp1;
+    temp1=head1;
+
+    vector<int> b; 
+    while(temp1->next!=NULL){
+     b.push_back(temp1->data);
+     temp1=temp1->next;
+     }
+    b.push_back(temp1->data);
+    SinglyLinkedListNode* temp2;
+    temp2=head2;
+
+    
+    vector<int> c;
+   
+    while(temp2->next!=NULL){
+     c.push_back(temp2->data);
+     temp2=temp2->next;
+   
+     }
+    c.push_back(temp2->data);
+     
+     if(b.size()!=c.size()){
+       return 0;
+     }else{
+         for(int i=0;i<b.size()-1;i++){
+           if(c[i]!=b[i])
+           {
+              return 0;
+           }
+         }
+         
+     }
+
+return 1;
+
+}
