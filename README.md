@@ -50,6 +50,11 @@ Day 8 : 6th August 2020
 Completed two question of Hackerrank , one print linkedlist reversely and second comparing two linkedList
 Solved one room of Tryhackme IntroductoryResearch and see it on (https://tryhackme.com/p/siais18)
 
+------------------------
+Day 9 : 7th August 2020
+------------------------
+Today I played CTF wit my team in Defcon ReadTeamVillage ctf and our rank was 156 and our score was 2731.
+I learned about tools like foremost,binwalk how to extract data from pcap,how to crack zip file and about binaries
 
 
 
