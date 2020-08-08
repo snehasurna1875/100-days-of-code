@@ -56,5 +56,11 @@ Day 9 : 7th August 2020
 Today I played CTF wit my team in Defcon ReadTeamVillage ctf and our rank was 156 and our score was 2731.
 I learned about tools like foremost,binwalk how to extract data from pcap,how to crack zip file and about binaries
 
+------------------------
+Day 10 : 8th August 2020
+------------------------
+Today learned about function in python.
+And solved the room Google Dorking on Tryhack me
+
 
 

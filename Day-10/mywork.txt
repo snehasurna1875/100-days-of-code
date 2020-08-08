@@ -1,0 +1,2 @@
+Learned about how to create function using def in python
+Learned google dorking like sitemaps, meta-test,flash test for website,robots.txt,how to optimise the search of the on google using site,intitle,filetype etc 
