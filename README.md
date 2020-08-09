@@ -62,5 +62,12 @@ Day 10 : 8th August 2020
 Today learned about function in python.
 And solved the room Google Dorking on Tryhack me
 
+------------------------
+Day 11 : 9th August 2020
+------------------------
+Completed course "Programming for Everybody (Getting Started with Python)!" on coursera 
+My certificate link - https://coursera.org/share/3c337cf7c1ce889bea0a429f57e353a4
+Solved a question in python
+
 
 
