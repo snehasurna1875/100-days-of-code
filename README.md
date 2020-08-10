@@ -69,5 +69,11 @@ Completed course "Programming for Everybody (Getting Started with Python)!" on c
 My certificate link - https://coursera.org/share/3c337cf7c1ce889bea0a429f57e353a4
 Solved a question in python
 
+-------------------------
+Day 12 : 10th August 2020
+-------------------------
+Learned about Sensitive Data Exposure and XML file structure by doing room of tryhackme
+named owasptop10 and solved it questions.
+
 
 
