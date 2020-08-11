@@ -1,0 +1,15 @@
+SinglyLinkedListNode* reverse(SinglyLinkedListNode* head) {
+
+SinglyLinkedListNode *temp,*prev,*nexty;
+temp = head;
+prev=NULL;
+while(temp->next!=NULL){
+    nexty=temp->next;
+    temp->next=prev;
+    prev=temp;
+    temp=nexty;  
+}
+temp->next=prev;
+head=temp;
+return head;
+}

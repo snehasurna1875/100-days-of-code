@@ -75,5 +75,12 @@ Day 12 : 10th August 2020
 Learned about Sensitive Data Exposure and XML file structure by doing room of tryhackme
 named owasptop10 and solved it questions.
 
+-------------------------
+Day 13 : 11th August 2020
+-------------------------
+Learned about XXE DTD, payload, exploiting and about Broken Access control by practicing room of tryhackme
+named owasptop10
+Solved reversing linked list by changing head(Hackerrank)
+
 
 
