@@ -82,5 +82,12 @@ Learned about XXE DTD, payload, exploiting and about Broken Access control by pr
 named owasptop10
 Solved reversing linked list by changing head(Hackerrank)
 
+-------------------------
+Day 14 : 12th August 2020
+-------------------------
+Learned about Cross-site scripting (XSS) by by practicing room of tryhackme
+named owasptop10
+Read about opengl tool for creating graphics with c
+
 
 
