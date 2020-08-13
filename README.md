@@ -89,5 +89,11 @@ Learned about Cross-site scripting (XSS) by by practicing room of tryhackme
 named owasptop10
 Read about opengl tool for creating graphics with c
 
+--------------------------
+Day 15 : 13th August 2020
+--------------------------
+Participated in CTF TheCyberGrabs with team and solved the challenges
+Read about fuzzing techniques and different cryptography 
+
 
 
