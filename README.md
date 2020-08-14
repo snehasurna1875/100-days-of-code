@@ -95,5 +95,12 @@ Day 15 : 13th August 2020
 Participated in CTF TheCyberGrabs with team and solved the challenges
 Read about fuzzing techniques and different cryptography 
 
+--------------------------
+Day 16 : 14th August 2020
+--------------------------
+Practice some question of insecure deserialization in owasptop10(try hack me)
+Solved problem of hacckerrank named class in c++
+
+
 
 
