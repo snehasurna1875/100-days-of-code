@@ -101,6 +101,13 @@ Day 16 : 14th August 2020
 Practice some question of insecure deserialization in owasptop10(try hack me)
 Solved problem of hacckerrank named class in c++
 
+---------------------------
+Day 17 : 15th August 2020
+---------------------------
+Read about file system in different operating system like Fat,NTFS etc
+
+
+
 
 
 

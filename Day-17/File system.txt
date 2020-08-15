@@ -1,0 +1,54 @@
+
+                                                   File System
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In computing, a file system or filesystem (often abbreviated to fs) controls how data is stored and retrieved. Without a file system, 
+data placed in a storage medium would be one large body of data with no way to tell where one piece of data stops and the next begins. 
+By separating the data into pieces and giving each piece a name, the data is easily isolated and identified. Taking its name from the
+ way paper-based data management system is named, each group of data is called a "file." The structure and logic rules used to manage 
+the groups of data and their names is called a "file system."
+
+-----
+FAT
+----
+FAT is by far the most simplistic of the file systems supported by Windows NT. 
+The FAT file system is characterized by the file allocation table (FAT), which 
+is really a table that resides at the very "top" of the volume. To protect the 
+volume, two copies of the FAT are kept in case one becomes damaged. In addition, 
+the FAT tables and the root directory must be stored in a fixed location so that 
+the system's boot files can be correctly located.
+
+----
+NTFS
+-----
+From a user's point of view, NTFS continues to organize files into directories, 
+which, like HPFS, are sorted. However, unlike FAT or HPFS, there are no "special" 
+objects on the disk and there is no dependence on the underlying hardware, such as 
+512 byte sectors. In addition, there are no special locations on the disk, such as 
+FAT tables or HPFS Super Blocks.
+
+
+The goals of NTFS are to provide:
+
+Reliability, which is especially desirable for high end systems and file servers
+A platform for added functionality
+Support POSIX requirements
+Removal of the limitations of the FAT and HPFS file systems
+
+-----
+EXT
+-----
+Originally developed for UNIX and LINUX like Operating Systems. Its first variant 
+came into market in 1992.Variant by variant this has overcome the limitations like 
+size of single file, size of volume, number of files in a folder or directory. 
+We have many software which could help in developing ext2 environment on Windows OS.
+Compatible for both Macatonish and Windows Operating System.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Sources
+--------
+https://en.wikipedia.org/wiki/Ext4
+https://www.geeksforgeeks.org/understanding-file-system/
+https://support.microsoft.com/en-us/help/100108/overview-of-fat-hpfs-and-ntfs-file-systems
+https://en.wikipedia.org/wiki/File_system
