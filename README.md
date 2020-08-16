@@ -106,6 +106,12 @@ Day 17 : 15th August 2020
 ---------------------------
 Read about file system in different operating system like Fat,NTFS etc
 
+---------------------------
+Day 18 : 16th August 2020
+---------------------------
+Learned about Insufficient logging and monitoring and also about insecure deserialization.
+And completed them on Tryhackme room named owasptop10
+
 
 
 
