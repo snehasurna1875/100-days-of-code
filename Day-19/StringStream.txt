@@ -1,0 +1,13 @@
+vector<int> parseInts(string str) {
+char cg;
+int ch;
+stringstream ss(str);
+vector<int> d;
+while(ss >>ch>>cg){
+  d.push_back(ch);
+  }
+  ss>>ch;
+  d.push_back(ch);
+
+return d ;
+}

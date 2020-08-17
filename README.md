@@ -112,6 +112,12 @@ Day 18 : 16th August 2020
 Learned about Insufficient logging and monitoring and also about insecure deserialization.
 And completed them on Tryhackme room named owasptop10
 
+---------------------------
+Day 19 : 17th August 2020
+---------------------------
+Solved string stream question of hackerrank
+Solved Security Misconfiguratiom on tryhackme room named owasptop10
+
 
 
 
