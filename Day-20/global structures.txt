@@ -1,0 +1,42 @@
+Refrence-https://www.kernel.org/doc/html/latest/filesystems/ext4/globals.html#block-and-inode-bitmaps
+------------------
+Global Structure will be used that are :
+
+
+The filesystem is sharded into a number of block groups, each of which have static metadata at fixed locations.
+1)Super Block
+
+The superblock records various information about the enclosing filesystem, such as
+ block counts, inode counts, supported features, maintenance information, and more.
+
+If the sparse_super feature flag is set, redundant copies of the superblock and group 
+descriptors are kept only in the groups whose group number is either 0 or a 
+power of 3, 5, or 7. If the flag is not set, redundant copies are kept in all groups.
+
+2)Block Group Descriptors
+Each block group on the filesystem has one of these descriptors associated with it. 
+As noted in the Layout section above, the group descriptors (if present) are the second 
+item in the block group. The standard configuration is for each block group to contain a 
+full copy of the block group descriptor table unless the sparse_super feature flag is set.
+
+3)Block and inode Bitmaps
+
+The data block bitmap tracks the usage of data blocks within the block group.
+The inode bitmap records which entries in the inode table are in use.
+
+4)Inode Table
+Inode tables are statically allocated at mkfs time. Each block group descriptor
+ points to the start of the table, and the superblock records the number of inodes per group.
+
+5)Multiple Mount Protection
+Multiple mount protection (MMP) is a feature that protects the filesystem against multiple 
+hosts trying to use the filesystem simultaneously. When a filesystem is opened (for mounting, or fsck, etc.),
+ the MMP code running on the node (call it node A) checks a sequence number. If the sequence number is EXT4_MMP_SEQ_CLEAN, 
+the open continues. If the sequence number is EXT4_MMP_SEQ_FSCK, then fsck is (hopefully) running, and open fails immediately. 
+
+6)Journal (jbd2)
+Introduced in ext3, the ext4 filesystem employs a journal to protect the filesystem against corruption 
+in the case of a system crash. A small continuous region of disk (default 128MiB) is reserved inside 
+the filesystem as a place to land “important” data writes on-disk as quickly as possible. Once the 
+important data transaction is fully written to the disk and 
+flushed from the disk write cache, a record of the data being committed is also written to the journal.

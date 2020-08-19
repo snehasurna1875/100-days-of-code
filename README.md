@@ -118,6 +118,11 @@ Day 19 : 17th August 2020
 Solved string stream question of hackerrank
 Solved Security Misconfiguratiom on tryhackme room named owasptop10
 
+----------------------------
+Day 20 : 19th August 2020
+-----------------------------
+Solved Hourglass problem on hackerrank.
+Read about internal working of file system of linux.
 
 
 
