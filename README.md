@@ -124,6 +124,12 @@ Day 20 : 19th August 2020
 Solved Hourglass problem on hackerrank.
 Read about internal working of file system of linux.
 
+----------------------------
+Day 21 : 20th August 2020
+-----------------------------
+solved owasp top 10 room  try hack me finally
+
+
 
 
 
