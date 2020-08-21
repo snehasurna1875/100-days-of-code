@@ -1,0 +1,47 @@
+
+Reverse integer
+code..
+-------------
+
+#include <string>
+class Solution {
+public:
+    int reverse(int x) {
+       
+        int e;
+        int z;
+       try{ 
+        if(x<0){
+           unsigned y=(unsigned)x;
+            y=y*(-1);
+            x=(int)y;
+       string c=to_string(x);
+        
+        std::reverse(c.begin(),c.end());
+       
+         e=stoi(c);
+           
+            e=e*(-1);
+           
+       return e;
+        } else{
+            string c=to_string(x);
+        
+        std::reverse(c.begin(),c.end());
+       
+         e=stoi(c);
+           
+            return e;
+        }
+           
+          }
+        catch (const std::out_of_range& oor) {
+           
+            
+    
+            return 0;
+  }
+       return z; 
+    }
+};
+---------------

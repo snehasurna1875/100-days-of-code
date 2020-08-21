@@ -129,6 +129,12 @@ Day 21 : 20th August 2020
 -----------------------------
 solved owasp top 10 room  try hack me finally
 
+-----------------------------
+Day 22 : 21st August 2020
+-----------------------------
+Solved the reverse integer problem and learned about type casting in C++
+
+
 
 
 
