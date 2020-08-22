@@ -134,6 +134,13 @@ Day 22 : 21st August 2020
 -----------------------------
 Solved the reverse integer problem and learned about type casting in C++
 
+-----------------------------
+Day 23 : 22nd August 2020
+-----------------------------
+Participated in Google ctf and tried to solve web challenges and forensics.
+
+
+
 
 
 
