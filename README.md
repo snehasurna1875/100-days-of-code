@@ -139,6 +139,10 @@ Day 23 : 22nd August 2020
 -----------------------------
 Participated in Google ctf and tried to solve web challenges and forensics.
 
+-----------------------------
+Day 24 : 23rd August 2020
+-----------------------------
+Completed Networking room in tryhackme
 
 
 
