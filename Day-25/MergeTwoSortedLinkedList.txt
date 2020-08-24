@@ -1,0 +1,41 @@
+SinglyLinkedListNode* mergeLists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
+    SinglyLinkedListNode *temp,*temp1,*temp3;
+    
+    temp=head1;
+    while(temp->next!=NULL){
+        temp=temp->next;
+    }
+    temp->next=head2;
+    
+    vector<int> a;
+    int k=0;
+    temp=head1;
+    while(temp->next!=NULL){
+        a.push_back(temp->data);
+        temp=temp->next;
+      
+    }
+    a.push_back(temp->data);
+    int max=a.size();
+    int tempy;
+   for(int i=0;i<max;i++){
+      for(int j=0;j<max;j++){
+        if(a[i]<a[j]){
+          tempy=a[i];
+          a[i]=a[j];
+          a[j]=tempy;
+      }
+      } 
+
+   }
+   int m=0;
+   temp=head1;
+   while(temp->next!=NULL){
+       temp->data=a[m];
+       temp=temp->next;
+       m++;
+   }
+   temp->data=a[m];
+return head1;
+
+}
