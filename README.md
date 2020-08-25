@@ -150,6 +150,12 @@ Day 25 : 24th August 2020
 Completed the hackerrank merging two sorted linklist
 Learned about api,docker,sqldump
 
+------------------------------
+Day 26 : 25th August 2020
+------------------------------
+Written a program to draw a triangle using opengl
+Solved the questions of tryhackme room named "crack the hash"
+
 
 
 
