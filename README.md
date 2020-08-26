@@ -156,6 +156,12 @@ Day 26 : 25th August 2020
 Written a program to draw a triangle using opengl
 Solved the questions of tryhackme room named "crack the hash"
 
+---------------------------------
+Day 27 : 26th August 2020
+---------------------------------
+Solved two question on hackerrank of getting node value & Deleting duplicate value of sorted linklist
+Completed the room Crack the hash of tryhackme.
+
 
 
 

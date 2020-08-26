@@ -1,0 +1,20 @@
+SinglyLinkedListNode* removeDuplicates(SinglyLinkedListNode* head) {
+
+
+int b,c;
+SinglyLinkedListNode *temp,*temp1;
+temp=head;
+while(temp->next!=NULL){
+    b=temp->data;
+    temp1=temp;
+ 
+ temp=temp->next;
+  c=temp->data;
+  if(b==c){
+    temp1->next=temp->next;
+    free(temp);
+    temp=temp1;
+  }
+}
+return head;
+}
