@@ -162,6 +162,11 @@ Day 27 : 26th August 2020
 Solved two question on hackerrank of getting node value & Deleting duplicate value of sorted linklist
 Completed the room Crack the hash of tryhackme.
 
+---------------------------------
+Day 28 : 27th August 2020
+---------------------------------
+Solved vector-sort and erase-vector problems of Hackerrank 
+The find command - I have just completed this room! Check it out:  https://tryhackme.com/room/thefindcommand #tryhackme #linux #terminal #bash #thefindcommand via @realtryhackme 
 
 
 
