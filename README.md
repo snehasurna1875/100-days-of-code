@@ -168,6 +168,12 @@ Day 28 : 27th August 2020
 Solved vector-sort and erase-vector problems of Hackerrank 
 The find command - I have just completed this room! Check it out:  https://tryhackme.com/room/thefindcommand #tryhackme #linux #terminal #bash #thefindcommand via @realtryhackme 
 
+---------------------------------
+Day 29 : 28th August 2020
+---------------------------------
+written a program to draw 6 primitives in one screen using opengl
+Written a program to draw a landscape using opengl
+
 
 
 
