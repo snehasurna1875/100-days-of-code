@@ -174,6 +174,12 @@ Day 29 : 28th August 2020
 written a program to draw 6 primitives in one screen using opengl
 Written a program to draw a landscape using opengl
 
+---------------------------------
+Day 30 : 28th August 2020
+---------------------------------
+Added mouse and keyboard to landscape functionality to landscape program inopengl
+Participated in NotPinkCon CTF
+
 
 
 
