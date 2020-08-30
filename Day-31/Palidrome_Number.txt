@@ -1,0 +1,29 @@
+Palindrome Number
+code--
+--------------
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        
+        int e;
+        bool ji;
+        try{
+            unsigned j=(unsigned)x;
+         string c=to_string(j);
+        std::reverse(c.begin(),c.end());
+       
+         e=stoi(c);
+        if(x==e){
+            ji=1;
+        }else{
+            ji=0;
+        }
+        
+        }
+        catch(const out_of_range& oor){
+            return 0;
+        }
+        return ji;  
+    }
+};
+----------------------

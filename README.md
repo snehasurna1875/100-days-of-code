@@ -180,6 +180,10 @@ Day 30 : 29th August 2020
 Added mouse and keyboard to landscape functionality to landscape program inopengl
 Participated in NotPinkCon CTF
 
+---------------------------------
+Day 31 : 29th August 2020
+---------------------------------
+Solved palindrome problem in leetcode
 
 
 
