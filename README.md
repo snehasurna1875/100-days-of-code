@@ -181,7 +181,7 @@ Added mouse and keyboard to landscape functionality to landscape program inopeng
 Participated in NotPinkCon CTF
 
 ---------------------------------
-Day 31 : 29th August 2020
+Day 31 : 30th August 2020
 ---------------------------------
 Solved palindrome problem in leetcode
 
