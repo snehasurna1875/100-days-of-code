@@ -185,6 +185,11 @@ Day 31 : 29th August 2020
 ---------------------------------
 Solved palindrome problem in leetcode
 
+----------------------------------
+Day 32 : 31st August 2020
+----------------------------------
+Pickle Rick - I have just completed this room! Check it out:  https://tryhackme.com/room/picklerick #tryhackme #ctf #dirbuster #linux #picklerick via @realtryhackme
+
 
 
 
