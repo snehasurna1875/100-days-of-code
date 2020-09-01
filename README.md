@@ -190,6 +190,12 @@ Day 32 : 31st August 2020
 ----------------------------------
 Pickle Rick - I have just completed this room! Check it out:  https://tryhackme.com/room/picklerick #tryhackme #ctf #dirbuster #linux #picklerick via @realtryhackme
 
+----------------------------------
+Day 33 : 1st September 2020
+----------------------------------
+Solved two random question in python
+Learn about eramba and it features. Add business unit in it and created the process with liabilties.
+
 
 
 
