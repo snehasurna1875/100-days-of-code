@@ -196,6 +196,14 @@ Day 33 : 1st September 2020
 Solved two random question in python
 Learn about eramba and it features. Add business unit in it and created the process with liabilties.
 
+------------------------------------
+Day 34 : 2nd September 2020
+------------------------------------
+Learned about Organization (Legal Constrains) and Organization (Third Parties)  and learned to added them in eramba.
+Read about basic of networks
+learned about doubly linked list.
+
+
 
 
 
