@@ -203,6 +203,14 @@ Learned about Organization (Legal Constrains) and Organization (Third Parties)  
 Read about basic of networks
 learned about doubly linked list.
 
+------------------------------------
+Day 35 : 3rd September 2020
+------------------------------------
+Learned list in python and solved problem named Swapcase,RunnerupScore,leapyear problem and Split and join on Hackerrank.
+Read about Ext4 file system internal working.
+
+
+
 
 
 
