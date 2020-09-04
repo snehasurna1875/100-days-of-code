@@ -209,6 +209,11 @@ Day 35 : 3rd September 2020
 Learned list in python and solved problem named Swapcase,RunnerupScore,leapyear problem and Split and join on Hackerrank.
 Read about Ext4 file system internal working.
 
+------------------------------------
+Day 36 : 4th September 2020
+------------------------------------
+Solved Hydra room in TryHackme
+
 
 
 
