@@ -214,6 +214,11 @@ Day 36 : 4th September 2020
 ------------------------------------
 Solved Hydra room in TryHackme
 
+------------------------------------
+Day 37 : 5th September 2020
+------------------------------------
+Played a simplectf
+
 
 
 
