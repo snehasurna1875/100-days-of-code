@@ -224,6 +224,15 @@ Day 38 : 6th September 2020
 -----------------------------------
 Solved some question of room Shodan.io room in Tryhack me
 
+-----------------------------------
+Day 39 : 7th September 2020
+-----------------------------------
+Completed the left over question of room Shodan.io room in Tryhack me
+Did some questions in python that are: Amstrong No, Area of triange, Roots of Quad Equations and Comparision of Random no
+
+
+
+
 
 
 
