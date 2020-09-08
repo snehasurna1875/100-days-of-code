@@ -230,6 +230,14 @@ Day 39 : 7th September 2020
 Completed the left over question of room Shodan.io room in Tryhack me
 Did some questions in python that are: Amstrong No, Area of triange, Roots of Quad Equations and Comparision of Random no
 
+-----------------------------------
+Day 40 : 8th September 2020
+-----------------------------------
+Did some questions in pthon that are: Palindrome no,Fibonacci series, ans prime numbers generation between range
+
+
+
+
 
 
 
