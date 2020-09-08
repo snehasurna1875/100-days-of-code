@@ -233,7 +233,7 @@ Did some questions in python that are: Amstrong No, Area of triange, Roots of Qu
 -----------------------------------
 Day 40 : 8th September 2020
 -----------------------------------
-Did some questions in pthon that are: Palindrome no,Fibonacci series, ans prime numbers generation between range
+Did some questions in python that are: Palindrome no,Fibonacci series, ans prime numbers generation between range
 
 
 
