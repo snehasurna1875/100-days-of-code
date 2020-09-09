@@ -235,6 +235,10 @@ Day 40 : 8th September 2020
 -----------------------------------
 Did some questions in python that are: Palindrome no,Fibonacci series, and prime numbers generation between range
 
+-----------------------------------
+Day 41 : 9th September 2020
+-----------------------------------
+Completed thr room c4ptur3th3fl4g room in Try hack me
 
 
 
