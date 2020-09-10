@@ -240,6 +240,11 @@ Day 41 : 9th September 2020
 -----------------------------------
 Completed thr room c4ptur3th3fl4g room in Try hack me
 
+-----------------------------------
+Day 42 : 10th September 2020
+-----------------------------------
+Read about the implementation and working of data structures in file sytem ext4 in linux.
+
 
 
 
