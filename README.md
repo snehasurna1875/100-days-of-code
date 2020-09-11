@@ -245,6 +245,12 @@ Day 42 : 10th September 2020
 -----------------------------------
 Read about the implementation and working of data structures in file sytem ext4 in linux.
 
+-----------------------------------
+Day 43 : 11th September 2020
+-----------------------------------
+Learned about strings in python and solved 5 question on hackerrank namely mutations, text alignment, textwrap,tuples and what your
+name problems
+
 
 
 
