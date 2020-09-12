@@ -243,13 +243,18 @@ Completed thr room c4ptur3th3fl4g room in Try hack me
 -----------------------------------
 Day 42 : 10th September 2020
 -----------------------------------
-Read about the implementation and working of data structures in file sytem ext4 in linux.
+Read about the implementation and working of data structures in file system ext4 in linux.
 
 -----------------------------------
 Day 43 : 11th September 2020
 -----------------------------------
 Learned about strings in python and solved 5 question on hackerrank namely mutations, text alignment, textwrap,tuples and what your
 name problems
+
+-----------------------------------
+Day 44 : 12th September 2020
+-----------------------------------
+Learned about opeartors and if,if-else,if-else-elif loop in python
 
 
 
