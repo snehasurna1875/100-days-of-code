@@ -256,6 +256,10 @@ Day 44 : 12th September 2020
 -----------------------------------
 Learned about opeartors and if,if-else,if-else-elif loop in python
 
+-----------------------------------
+Day 45 : 13th September 2020
+-----------------------------------
+Solved find a string,introduction to sets, set.add() problem in python on hackerrank
 
 
 
