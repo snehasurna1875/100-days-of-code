@@ -261,7 +261,10 @@ Day 45 : 13th September 2020
 -----------------------------------
 Solved find a string,introduction to sets, set.add() problem in python on hackerrank
 
-
+-----------------------------------
+Day 46 : 14th September 2020
+-----------------------------------
+Learned about preorder, postorder, inorder traversal in a binary tree .Solved questions on hackerrank
 
 
 
