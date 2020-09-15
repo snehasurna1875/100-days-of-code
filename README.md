@@ -266,8 +266,10 @@ Day 46 : 14th September 2020
 -----------------------------------
 Learned about preorder, postorder, inorder traversal in a binary tree .Solved questions on hackerrank
 
-
-
+-----------------------------------
+Day 47 : 15th September 2020
+-----------------------------------
+Solved even-odd sum, pattern printing,and HCF problem in Python
 
 
 
