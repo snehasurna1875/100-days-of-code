@@ -271,6 +271,11 @@ Day 47 : 15th September 2020
 -----------------------------------
 Solved even-odd sum, pattern printing,and HCF problem in Python
 
+-----------------------------------
+Day 48 : 16th September 2020
+-----------------------------------
+Solved find percentage,set union and set difference problem in python on hackerrank
+
 
 
 
