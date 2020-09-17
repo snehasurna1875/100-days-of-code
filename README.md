@@ -276,7 +276,10 @@ Day 48 : 16th September 2020
 -----------------------------------
 Solved find percentage,set union and set difference problem in python on hackerrank
 
-
+-----------------------------------
+Day 49 : 17th September 2020
+-----------------------------------
+Learned about nested list in python. Solved nested list problem in python on hackerrank
 
 
 
