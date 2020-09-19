@@ -1,0 +1,26 @@
+Binary Tree –
+A binary tree is a hierarchical data structure in which each node has at most two children generally referred as left child and right child.
+
+Each node contains three components:
+
+Pointer to left subtree
+Pointer to right subtree
+Data element
+The topmost node in the tree is called the root. An empty tree is represented by NULL pointer.
+In a binary tree, a node can have maximum two children.
+
+Calculating minimum and maximum height from number of nodes –
+If there are n nodes in binary tree, maximum height of the binary tree is n-1 and minimum height is floor(log2n).
+
+For example, left skewed binary tree with 5 nodes has height 5-1 = 4 and binary tree  with 5 nodes has height floor(log25) = 2.
+Binary Search Tree –
+In a binary search tree, left child of a node has value less than the parent and right child has value greater than parent.
+
+Calculating minimum and maximum height from the number of nodes –
+If there are n nodes in a binary search tree, maximum height of the binary search tree is n-1 and minimum height is floor(log2n).
+
+Calculating minimum and maximum number of nodes from height –
+If binary search tree has height h, minimum number of nodes is h+1 (in case of left skewed and right skewed binary search tree).
+If binary search tree has height h, maximum number of nodes will be when all levels are completely full. Total number of nodes will be 2^0 + 2^1 + …. 2^h = 2^(h+1)-1.
+
+All the rules in BST are same as in binary tree and can be visualized in the same way.

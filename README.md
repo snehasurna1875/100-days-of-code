@@ -281,9 +281,16 @@ Day 49 : 17th September 2020
 -----------------------------------
 Learned about nested list in python. Solved nested list problem in python on hackerrank
 
+-----------------------------------
+Day 50 : 18th September 2020
+-----------------------------------
+Solved set symmetric difference problem and intersection problem on hackerrank in python.
 
-
-
+-----------------------------------
+Day 51 : 19th September 2020
+-----------------------------------
+Solved two power question on hackerrank in python.
+Learned about binary tree.
 
 
 
