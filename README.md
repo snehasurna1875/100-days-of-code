@@ -292,5 +292,9 @@ Day 51 : 19th September 2020
 Solved two power question on hackerrank in python.
 Learned about binary tree.
 
+-----------------------------------
+Day 52 : 20th September 2020
+-----------------------------------
+Implement Breshman algorithm in C 
 
 
