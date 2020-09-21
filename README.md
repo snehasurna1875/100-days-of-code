@@ -297,4 +297,9 @@ Day 52 : 20th September 2020
 -----------------------------------
 Implement Breshman algorithm in C 
 
+-----------------------------------
+Day 53 : 21st September 2020
+-----------------------------------
+Solved set diiference and check subset problem in python on Hackerrank
+
 
