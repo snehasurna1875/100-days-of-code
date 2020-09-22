@@ -302,4 +302,11 @@ Day 53 : 21st September 2020
 -----------------------------------
 Solved set diiference and check subset problem in python on Hackerrank
 
+-----------------------------------
+Day 54 : 22nd September 2020
+-----------------------------------
+Draw a circle using Breshman Algorithm using open-gl 
+
+
+
 
