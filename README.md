@@ -307,6 +307,10 @@ Day 54 : 22nd September 2020
 -----------------------------------
 Draw a circle using Breshman Algorithm using open-gl 
 
+-----------------------------------
+Day 55 : 23rd September 2020
+-----------------------------------
+Solved set-discard-remove-pop and set mutation problem in python on Hackerrank 
 
 
 
