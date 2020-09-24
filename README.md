@@ -312,5 +312,9 @@ Day 55 : 23rd September 2020
 -----------------------------------
 Solved set-discard-remove-pop and set mutation problem in python on Hackerrank 
 
+-----------------------------------
+Day 56 : 24th September 2020
+-----------------------------------
+Solved itertools permutation and combination problem in python on Hackerrank 
 
 
