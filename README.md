@@ -315,6 +315,13 @@ Solved set-discard-remove-pop and set mutation problem in python on Hackerrank
 -----------------------------------
 Day 56 : 24th September 2020
 -----------------------------------
-Solved itertools permutation and combination problem in python on Hackerrank 
+Solved itertools permutation and product problem in python on Hackerrank 
+
+-----------------------------------
+Day 57 : 25th September 2020
+-----------------------------------
+Solved itertools combinations and combinations_with_replacements problem in python on Hackerrank 
+
+
 
 
