@@ -332,4 +332,9 @@ Day 59 : 27th September 2020
 -----------------------------------
 Played CloudSEK CTF challenge
 
+-----------------------------------
+Day 60 : 28th September 2020
+-----------------------------------
+Learned about File handling in python  and solved basic questions 
+
 
