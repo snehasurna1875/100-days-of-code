@@ -337,4 +337,9 @@ Day 60 : 28th September 2020
 -----------------------------------
 Learned about File handling in python  and solved basic questions 
 
+-----------------------------------
+Day 61 : 29th September 2020
+-----------------------------------
+Learned about exception handling in python and solved it questions in python on Hackerrank.
+
 
