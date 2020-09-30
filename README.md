@@ -342,4 +342,11 @@ Day 61 : 29th September 2020
 -----------------------------------
 Learned about exception handling in python and solved it questions in python on Hackerrank.
 
+-----------------------------------
+Day 62 : 30th September 2020
+-----------------------------------
+Learned about calendar and date in python and solved it question in python on Hackerrank.
+
+
+
 
