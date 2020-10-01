@@ -348,5 +348,10 @@ Day 62 : 30th September 2020
 Learned about calendar and date in python and solved it question in python on Hackerrank.
 
 
+-----------------------------------
+Day 63 : 1st October 2020
+-----------------------------------
+Learned about Local File Inclusion.
+
 
 

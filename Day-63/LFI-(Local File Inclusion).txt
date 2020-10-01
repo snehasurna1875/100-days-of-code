@@ -1,0 +1,32 @@
+reference:-https://www.acunetix.com/blog/articles/local-file-inclusion-lfi/#:~:text=An%20attacker%20can%20use%20Local,to%20a%20file%20as%20input.
+refernce :-https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabilities/
+
+--------------
+An attacker can use Local File Inclusion (LFI) to trick the web application into exposing or 
+running files on the web server. An LFI attack may lead 
+to information disclosure, remote code execution, or even 
+Cross-site Scripting (XSS). Typically, LFI occurs when an 
+application uses the path to a file as input. If the application 
+treats this input as trusted, a local file may be used in the include statement.
+
+Local File Inclusion is very similar to Remote File Inclusion (RFI). However, 
+an attacker using LFI may only include local files (not remote files like in the case of RFI).
+The ‘../’ characters used in the example above represent a directory traversal. 
+The number of ‘../’ sequences depends on the configuration and location of the 
+target web server on the victim machine. Some experimentation may be required.
+
+We can see that the contents of /etc/passwd are displayed on the screen. 
+A lot of useful information about the host can be obtained this way. 
+Some interesting files to look for include, but are not limited to:
+
+Linux File Locations
+– /etc/issue
+– /proc/version
+– /etc/profile
+– /etc/passwd
+– /etc/passwd
+– /etc/shadow
+– /root/.bash_history
+– /var/log/dmessage
+– /var/mail/root
+– /var/spool/cron/crontabs/root
