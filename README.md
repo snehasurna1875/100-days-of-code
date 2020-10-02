@@ -353,5 +353,9 @@ Day 63 : 1st October 2020
 -----------------------------------
 Learned about Local File Inclusion.
 
+-----------------------------------
+Day 64 : 2nd October 2020
+-----------------------------------
+Solved collection counter problem in python on Hackerrank
 
 
