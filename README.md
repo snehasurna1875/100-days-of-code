@@ -358,4 +358,7 @@ Day 64 : 2nd October 2020
 -----------------------------------
 Solved collection counter problem in python on Hackerrank
 
-
+-----------------------------------
+Day 65 : 3rd October 2020
+-----------------------------------
+Solved list problem in python on Hackerrank
