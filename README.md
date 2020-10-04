@@ -362,3 +362,8 @@ Solved collection counter problem in python on Hackerrank
 Day 65 : 3rd October 2020
 -----------------------------------
 Solved list problem in python on Hackerrank
+
+-----------------------------------
+Day 66 : 4th October 2020
+-----------------------------------
+Learned about stack and stack operations.
