@@ -368,3 +368,8 @@ Day 66 : 4th October 2020
 -----------------------------------
 Learned about stack and stack operations.
 Learned how to split character in C++
+
+-----------------------------------
+Day 67 : 5th October 2020
+-----------------------------------
+Solved the maximum-element question in C++ on Hackerrank
