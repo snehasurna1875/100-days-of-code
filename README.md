@@ -373,3 +373,8 @@ Learned how to split character in C++
 Day 67 : 5th October 2020
 -----------------------------------
 Solved the maximum-element question in C++ on Hackerrank
+
+-----------------------------------
+Day 68 : 6th October 2020
+-----------------------------------
+Learned about the array in python and solved general questions on it
