@@ -378,3 +378,8 @@ Solved the maximum-element question in C++ on Hackerrank
 Day 68 : 6th October 2020
 -----------------------------------
 Learned about the array in python and solved general questions on it
+
+-----------------------------------
+Day 69 : 7th October 2020
+-----------------------------------
+Read about infomation security goverance, Csuite, GRC 
