@@ -383,3 +383,8 @@ Learned about the array in python and solved general questions on it
 Day 69 : 7th October 2020
 -----------------------------------
 Read about infomation security goverance, Csuite, GRC 
+
+-----------------------------------
+Day 70 : 8th October 2020
+-----------------------------------
+Started basic programmings challenges on Hackerearth and solved two questions in C++ .
