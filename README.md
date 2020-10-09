@@ -388,3 +388,8 @@ Read about infomation security goverance, Csuite, GRC
 Day 70 : 8th October 2020
 -----------------------------------
 Started basic programmings challenges on Hackerearth and solved two questions in C++ .
+
+-----------------------------------
+Day 71 : 9th October 2020
+-----------------------------------
+Created a Virtual Machine on GCP(Google Cloud Platform) and learned GCP Essentials.
