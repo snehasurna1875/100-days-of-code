@@ -393,3 +393,8 @@ Started basic programmings challenges on Hackerearth and solved two questions in
 Day 71 : 9th October 2020
 -----------------------------------
 Created a Virtual Machine on GCP(Google Cloud Platform) and learned GCP Essentials.
+
+-----------------------------------
+Day 72 : 10th October 2020
+-----------------------------------
+Solved the product question Hackerearth in C++
