@@ -398,3 +398,9 @@ Created a Virtual Machine on GCP(Google Cloud Platform) and learned GCP Essentia
 Day 72 : 10th October 2020
 -----------------------------------
 Solved the product question Hackerearth in C++
+
+-----------------------------------
+Day 73 : 11th October 2020
+-----------------------------------
+Learned how to use Cloud Shell and the Cloud SDK gcloud command and  
+how to connect to computing resources hosted on Google Cloud Platform via the web
