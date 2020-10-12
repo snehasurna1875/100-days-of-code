@@ -404,3 +404,9 @@ Day 73 : 11th October 2020
 -----------------------------------
 Learned how to use Cloud Shell and the Cloud SDK gcloud command and  
 how to connect to computing resources hosted on Google Cloud Platform via the web
+
+-----------------------------------
+Day 74 : 12th October 2020
+-----------------------------------
+Solved two questions on list and strings in python
+
