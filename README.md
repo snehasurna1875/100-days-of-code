@@ -410,3 +410,9 @@ Day 74 : 12th October 2020
 -----------------------------------
 Solved two questions on list and strings in python
 
+----------------------------------
+Day 75 : 13th October 2020
+----------------------------------
+Deployed a containerized application to Kubernetes Engine with command-line on Google Cloud
+
+
