@@ -419,3 +419,10 @@ Deployed a containerized application to Kubernetes Engine with command-line on G
 Day 76 : 14th October 2020
 ----------------------------------
 Deployed a network load balancer and http load balancer
+
+---------------------------------
+Day 77 : 15th October 2020
+----------------------------------
+Solved Roy and profile photo question on Hackerearth
+
+
