@@ -425,4 +425,9 @@ Day 77 : 15th October 2020
 ----------------------------------
 Solved Roy and profile photo question on Hackerearth
 
+---------------------------------
+Day 78 : 16th October 2020
+----------------------------------
+Solved a class problem in python 
+Completed the challenge lab and earned a badge name Google Cloud Create and Manage Cloud Resources
 
