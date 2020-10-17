@@ -431,3 +431,10 @@ Day 78 : 16th October 2020
 Solved a class problem in python 
 Completed the challenge lab and earned a badge name Google Cloud Create and Manage Cloud Resources
 
+----------------------------------
+Day 79 : 17th October 2020
+----------------------------------
+Started Perform Foundational Infrastructure Tasks in Google Cloud and 
+completed first lab and create bucket and how to make image 
+publicly accessible 
+
