@@ -438,3 +438,8 @@ Started Perform Foundational Infrastructure Tasks in Google Cloud and
 completed first lab and create bucket and how to make image 
 publicly accessible 
 
+------------------------------------
+Day 80 : 18th October 2020
+------------------------------------
+I completed the Google Cloud lab in which I excercised granting and revoking Cloud IAM roles to users
+
