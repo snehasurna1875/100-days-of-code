@@ -442,4 +442,4 @@ publicly accessible
 Day 80 : 18th October 2020
 ------------------------------------
 I completed the Google Cloud lab in which I excercised granting and revoking Cloud IAM roles to users
-
+And I completed one more lab in which I set up and monitored a VM with Cloud Monitoring
