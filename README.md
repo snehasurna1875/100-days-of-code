@@ -448,5 +448,5 @@ And I completed one more lab in which I set up and monitored a VM with Cloud Mon
 Day 81 : 19th October 2020
 ------------------------------------
 I completed the Google Cloud lab in which I deployed a function without connection
-
+and completed another lab in which I learn how to publish and consume messages with a pull subscriber
 
