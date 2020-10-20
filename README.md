@@ -450,3 +450,7 @@ Day 81 : 19th October 2020
 I completed the Google Cloud lab in which I deployed a function without connection
 and completed another lab in which I learn how to publish and consume messages with a pull subscriber
 
+------------------------------------
+Day 82 : 20th October 2020
+------------------------------------
+Solved random question on dictionary and list in python
