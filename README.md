@@ -454,3 +454,8 @@ and completed another lab in which I learn how to publish and consume messages w
 Day 82 : 20th October 2020
 ------------------------------------
 Solved random question on dictionary and list in python
+
+------------------------------------
+Day 83 : 21th October 2020
+------------------------------------
+Finally completed Google Cloud Platform Foundational Infrastructure and earned a badge
