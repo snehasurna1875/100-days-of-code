@@ -459,3 +459,8 @@ Solved random question on dictionary and list in python
 Day 83 : 21th October 2020
 ------------------------------------
 Finally completed Google Cloud Platform Foundational Infrastructure and earned a badge
+
+------------------------------------
+Day 84 : 22th October 2020
+------------------------------------
+Completed Google Cloud Platform lab introduction to SQL for BigQuery and Cloud SQL
