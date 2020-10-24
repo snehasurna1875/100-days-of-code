@@ -464,3 +464,13 @@ Finally completed Google Cloud Platform Foundational Infrastructure and earned a
 Day 84 : 22th October 2020
 ------------------------------------
 Completed Google Cloud Platform lab introduction to SQL for BigQuery and Cloud SQL
+
+------------------------------------
+Day 85 :23th October 2020
+------------------------------------
+Completed Google Cloud Platform Deployment Manager and VPC Network labs
+
+------------------------------------
+Day 86 :24th October 2020
+------------------------------------
+Completed Google Cloud Platform Kubernetic and Docker labs
