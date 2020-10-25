@@ -474,3 +474,8 @@ Completed Google Cloud Platform Deployment Manager and VPC Network labs
 Day 86 :24th October 2020
 ------------------------------------
 Completed Google Cloud Platform Kubernetic and Docker labs
+
+-----------------------------------
+Day 87 :25th October 2020
+-----------------------------------
+Completed orchesting with kubernetes and using jenkins labs
