@@ -479,3 +479,8 @@ Completed Google Cloud Platform Kubernetic and Docker labs
 Day 87 :25th October 2020
 -----------------------------------
 Completed orchesting with kubernetes and using jenkins labs
+
+-----------------------------------
+Day 88 : 26th October 2020
+-----------------------------------
+Completed the VPC Networks - Controlling Access
