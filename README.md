@@ -484,3 +484,8 @@ Completed orchesting with kubernetes and using jenkins labs
 Day 88 : 26th October 2020
 -----------------------------------
 Completed the VPC Networks - Controlling Access
+
+-----------------------------------
+Day 89 : 27th October 2020
+-----------------------------------
+Finally completed Google Cloud Set up and Configure a Cloud Environment and earned a badge
