@@ -493,4 +493,5 @@ Finally completed Google Cloud Set up and Configure a Cloud Environment and earn
 -----------------------------------
 Day 90 : 28th October 2020
 -----------------------------------
-Completed Google Clould Platform Lab Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine 
+Completed Google Clould Platform Lab Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
+Completed Google Clould Platform Lab HTTP Load Balancer with Cloud Armor
