@@ -489,3 +489,8 @@ Completed the VPC Networks - Controlling Access
 Day 89 : 27th October 2020
 -----------------------------------
 Finally completed Google Cloud Set up and Configure a Cloud Environment and earned a badge
+
+-----------------------------------
+Day 90 : 28th October 2020
+-----------------------------------
+Completed Google Clould Platform Lab Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine 
