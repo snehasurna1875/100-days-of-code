@@ -495,3 +495,14 @@ Day 90 : 28th October 2020
 -----------------------------------
 Completed Google Clould Platform Lab Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
 Completed Google Clould Platform Lab HTTP Load Balancer with Cloud Armor
+
+-----------------------------------
+Day 91 : 29th October 2020
+-----------------------------------
+Completed Google cloud platform lab named internal load balancer
+
+------------------------------------
+Day 92 : 30th October 2020
+------------------------------------
+completed a quest named Build and Secure Networks in Google Cloud and earned  the badge
+ 
