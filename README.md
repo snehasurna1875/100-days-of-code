@@ -505,4 +505,9 @@ Completed Google cloud platform lab named internal load balancer
 Day 92 : 30th October 2020
 ------------------------------------
 completed a quest named Build and Secure Networks in Google Cloud and earned  the badge
+
+------------------------------------
+Day 93 : 31st October 2020
+------------------------------------
+Completed a quest named Deploy to Kubernetes in Google Cloud and earned a badge 
  
