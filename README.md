@@ -510,4 +510,10 @@ completed a quest named Build and Secure Networks in Google Cloud and earned  th
 Day 93 : 31st October 2020
 ------------------------------------
 Completed a quest named Deploy to Kubernetes in Google Cloud and earned a badge 
+
+------------------------------------
+Day 94 : 1st November 2020
+------------------------------------
+Completed a lab named Site Reliability Troubleshooting with Cloud Monitoring APM
+
  
