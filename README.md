@@ -520,5 +520,12 @@ Completed a lab named Site Reliability Troubleshooting with Cloud Monitoring APM
 ------------------------------------
 Day 95 :2nd November 2020
 ------------------------------------
-Comleted a quest named Deploy and Manage Cloud Environments with Google Cloud and earned a badge
+Completed a quest named Deploy and Manage Cloud Environments with Google Cloud and earned a badge
+
+
+------------------------------------
+Day 96 :3rd November 2020
+------------------------------------
+Learned about splunk data analytics tools
+
 
