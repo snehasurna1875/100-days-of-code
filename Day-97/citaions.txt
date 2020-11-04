@@ -1,0 +1,7 @@
+A Virtual Honeypot Framework
+Niels Provos
+Google, Inc.
+niels@google.com
+-------------------------
+A survey on Intrusion Detection Systems and Honeypot based proactive security mechanisms in VANETs and VANET Cloud
+SparshSharmaa AjayKaula

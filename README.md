@@ -528,4 +528,9 @@ Day 96 :3rd November 2020
 ------------------------------------
 Learned about splunk data analytics tools
 
+--------------------------------------
+Day 97 : 4th November 2020
+--------------------------------------
+Read research paper about Honeypots 
+
 
