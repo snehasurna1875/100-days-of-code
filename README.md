@@ -538,4 +538,8 @@ Day 98  : 5th November 2020
 -------------------------------------
 Solved the Palindromic String question on hackerearth
 
+-------------------------------------
+Day 99  : 6th November 2020
+-------------------------------------
+Read research paper about Honeypots 
 

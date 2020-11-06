@@ -1,0 +1,18 @@
+----------------
+Security and Results of a Large-Scale
+High-Interaction Honeypot
+J. Briffaut, J.-F. Lalande, C. Toinard
+Laboratoire d’Informatique Fondamentale d’Orléans
+----------------------
+Research on network security of defense based on Honeypot
+Jian Bao
+Department of Computer Science
+Liaoning Technical University
+Fuxin, China
+
+
+Chang-peng Ji and Mo Gao
+School of Electronic and Information Engineering
+Liaoning Technical University
+Huludao, China
+------------------------------------
