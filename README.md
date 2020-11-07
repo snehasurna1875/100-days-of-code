@@ -543,3 +543,8 @@ Day 99  : 6th November 2020
 -------------------------------------
 Read research paper about Honeypots 
 
+-------------------------------------
+Day 100 : 7th November 2020
+-------------------------------------
+Solved two questions at hackerearth
+
